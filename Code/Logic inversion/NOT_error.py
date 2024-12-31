@@ -1,12 +1,3 @@
-# 姓名：彭晓煊
-# 时间：2022/9/22 19:10
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 25 15:06:32 2021
-
-@author: ZSY
-"""
-
 from pylab import *
 import numpy as np
 import scipy
